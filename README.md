@@ -1,6 +1,6 @@
 # Deep-Playground
 
-This repository contains various neural network–based codes, ranging from graph neural networks (GNNs) for molecular property prediction to recurrent neural networks (RNNs). The examples and implementations are based on material I studied in the ML in Chemistry course at UChicago (Spring 2025), as well as from online tutorials and books by Raschka, Murphy, Goodfellow, and Bishop, along with Andrew White’s blog.
+This repository contains various neural network–based codes, ranging from graph neural networks (GNNs) for molecular property prediction to recurrent neural networks (RNNs). The examples and implementations are based on material I studied in the ML in Chemistry course at UChicago (Spring 2025), as well as from online tutorials and books by Raschka, Murphy, Goodfellow, and Bishop, along with Andrew White’s blog. (LLMs helped refine portions of some of the codes.)
 
 GNN_QM9 - Implementation of graph neural networks (GNNs) with invariance/equivariance for predicting molecular properties using the QM9 dataset.
 
