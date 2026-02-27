@@ -8,4 +8,4 @@ NN for trig - Design and implementation of a very simple neural network for appr
 
 Recurrent NN - Simple tutorial on how to design and implement recurrent neural networks (RNNs). RNNs are known for being able to process sequential data (and capture temporal dependencies). A small illustration with a toy model is also shown.
 
-inverse_design - This implements a conditional variational autoencoder (cVAE) to learn from a given dataset (represented by SMILES) and train the cVAE conditioned on cohesive energies. The cVAE is then deployed to generate new structures corresponding to some values of the cohesive energy. In other words, this is a small illustration of inverse design of molecular structures.
+inverse_design - This implements a conditional variational autoencoder (cVAE) to learn from a given dataset (represented by SMILES) and train the cVAE conditioned on cohesive energies. The cVAE is then deployed to generate new structures corresponding to some values of the cohesive energy. In other words, this is a small illustration of inverse design of molecular structures. At the end, normalizing flows (instead of VAEs) are also implemented.
